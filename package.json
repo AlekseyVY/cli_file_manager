@@ -1,0 +1,20 @@
+{
+  "name": "cli_file_manager",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "File Manager (CLI)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekseyVY/cli_file_manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlekseyVY/cli_file_manager/issues"
+  },
+  "homepage": "https://github.com/AlekseyVY/cli_file_manager#readme"
+}
